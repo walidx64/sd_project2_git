@@ -1,6 +1,11 @@
-# sd_testproject2
+# skin diseases detection using Image classification ML
+# TFlite
 
-test App for Sd project
+![](https://github.com/walidx64/sd_project2_git/blob/main/SS/Samsung%20%20Galaxy%20S22%20(6).png)
+![](https://github.com/walidx64/sd_project2_git/blob/main/SS/Samsung%20%20Galaxy%20S22%20(7).png)
+![](https://github.com/walidx64/sd_project2_git/blob/main/SS/Samsung%20%20Galaxy%20S22%20(8).png)
+
+Prototype Test APP
 
 ## Getting Started
 
